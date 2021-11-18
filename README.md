@@ -1,0 +1,3 @@
+- 데이터분석으로 롤 게임에서 승리에 영향을 주는 요소 파악하기
+- 캐글 League of Legends Diamond Ranked Games (10 min) 데이터셋 사용
+- 데이터 출처: https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min
